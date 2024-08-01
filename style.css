@@ -49,14 +49,15 @@ body {
   }
   
   .gambar-container {
-    gap: 5px;
+    gap: 50px;
     padding-top: 10px;
+    margin-left: 10px;
+    padding-left: 10px;
   }
   
-  .gamabar-container img {
-    height: 500px;
+  .gambar-container img {
     object-fit: cover;
-    gap: 10px;
+    gap: 100px;
   }
   
   .nama {
